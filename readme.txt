@@ -9,3 +9,4 @@ Vim has a mutable index called stage
 
 fourth change
 
+fifth change
